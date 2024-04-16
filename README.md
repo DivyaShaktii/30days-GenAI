@@ -1,7 +1,7 @@
 # 0/30 day : Gen Ai Revison Plan 
 
 **Contents**
-  1. **Transformer from Scratch:**  Attention , Training , Inference  
+  1. [**Transformer from Scratch:**  Attention , Training , Inference]  
   
   2. **Tokenization and Embeddings:** Subword tokenization(BPE / Sentencepeice), Word Embeddings
   
